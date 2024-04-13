@@ -1,0 +1,2 @@
+1- "data_extract" is main program and "cv_output_data.xlsx" is output of pdf and docx files. 
+2-if you need to add any another pdf,docx file , enter the file name in tha last  main function.
